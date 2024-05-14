@@ -26,3 +26,6 @@ Week 9,10- Fine tune the DSO using Pytorch method for our dataset to get better 
 Week 11,12- Implemeting ML based SyPy method on our dataset to get even better results and equations when compared with our previous two models with an Impressive RMSE.
 
 Week 13- Fine tuning the PySr model by changing the operators in our function set to make it work on a wider range of equations . In the end PySr performed the best with a validation RMSE of 0.5
+
+
+Data for this research is made available at - https://drive.google.com/file/d/1Oqu5rlRaRiNCKpIfNDW2aEQRkat27a7s/view?usp=sharing
