@@ -1,0 +1,9 @@
+﻿* Python 3.10
+* PyTorch 2.2.0
+*  NumPy
+*  Scipy
+*  Sympy
+*  Matplotlib 
+* Gplearn 0.4.2
+* Scikit Learn
+* Sympy 1.3.0
