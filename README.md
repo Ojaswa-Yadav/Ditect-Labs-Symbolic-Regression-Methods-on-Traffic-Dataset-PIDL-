@@ -29,3 +29,29 @@ Week 13- Fine tuning the PySr model by changing the operators in our function se
 
 
 Data for this research is made available at - https://drive.google.com/file/d/1Oqu5rlRaRiNCKpIfNDW2aEQRkat27a7s/view?usp=sharing
+
+
+
+## Installation and Setup Instructions
+
+### Cloning the Repository
+To clone this repository to your local machine, execute the following command:
+
+```bash
+git clone https://github.com/Ojaswa-Yadav/Ditect-Labs-Symbolic-Regression-Methods-on-Traffic-Dataset-PIDL-.git
+```
+
+Setting Up the Environment
+Navigate to the project directory:
+
+```bash
+cd Ditect-Labs-Symbolic-Regression-Methods-on-Traffic-Dataset-PIDL-
+```
+
+Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+
+
